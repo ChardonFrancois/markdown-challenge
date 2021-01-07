@@ -2,7 +2,7 @@
 # Chardon François
 *“L’espérance ne mène à rien, mais la persévérance mène au droit chemin.*
 *"Hope gets nowhere, but perseverance leads to the right path."*
-[me](https://zupimages.net/viewer.php?id=21/01/tvvh.png).
+![me](https://zupimages.net/viewer.php?id=21/01/tvvh.png).
 #### perseverance is Queen for those who thirst for knowledge
 
 |                   |                    |
