@@ -27,6 +27,22 @@ You can always count on me cause i will always find a way to help you.
 
 I am smiling, motivated and I accept criticism.
 
+***short story***
+
+
+I was lost not knowing what to do with my life so I encountered programming! it reboosted me
+then i met a friend who introduced me to web development and i fell in love.
+My life has taken another turn and I'm more than happy!
+
+***TL DR***
+
+##### never give up, the wheel turns for everyone!
+
+<<précédent||Weap-Weap||suivant>>
+
+
+
+
 
 
 
