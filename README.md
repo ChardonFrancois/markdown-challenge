@@ -1,6 +1,5 @@
 <!-- # markdown-challenge -->
 # Chardon François
-*“L’espérance ne mène à rien, mais la persévérance mène au droit chemin.*
 
 *"Hope gets nowhere, but perseverance leads to the right path."*
 
@@ -38,7 +37,7 @@ My life has taken another turn and I'm more than happy!
 
 ##### never give up, the wheel turns for everyone!
 
-...[previous](https://github.com/AnonyMouse97/markdown-challenge)... Chardon François ...[next](https://github.com/Tselawi/markdown-challenge)...
+... [Charlotte Moureau](https://github.com/CharlotteMoureau) ... ||Chardon François|| ... [François Royen](https://github.com/francoisRoyen) ...
 
 
 
