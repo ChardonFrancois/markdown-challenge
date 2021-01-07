@@ -38,7 +38,7 @@ My life has taken another turn and I'm more than happy!
 
 ##### never give up, the wheel turns for everyone!
 
-...[previous](https://github.com/AnonyMouse97/markdown-challenge) ... Chardon François ... [next](https://github.com/Tselawi/markdown-challenge)
+...[previous](https://github.com/AnonyMouse97/markdown-challenge)... Chardon François ...[next](https://github.com/Tselawi/markdown-challenge)...
 
 
 
